@@ -1,0 +1,46 @@
+body{
+    margin:0px;
+    margin:0px;
+}
+.main{
+    border:5px solid black;
+    display: block;
+
+}
+.item{
+color: lightblue;
+text-align: center;
+padding: 5px;
+font-size: 20px;
+}
+.item1{
+    background-color: yellow;
+}
+.item2{
+    background-color: pink;
+}
+.item3{
+    background-color: red;
+}
+.item4{
+    background-color: pink;
+}
+.item5{
+    background-color: yellow;
+}
+.item6{
+    background-color:red;
+}
+.item7{
+    background-color: blue;
+}
+.item8{
+    background-color: brown;
+}
+.item9{
+    background-color: yellow;
+}
+.item10{
+    background-color: pink;
+}
+        
